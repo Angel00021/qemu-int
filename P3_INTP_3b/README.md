@@ -9,7 +9,7 @@ En el caso de la Raspberry Pi 3b, tenemos un procesador con 4 cores, los cuales 
 - Un temporizador virtual. → Usamos este
 
 Datasheet BCM2837
->https://datasheets.raspberrypi.com/bcm2836/bcm2836-peripherals.pdf
+>https://datasheetspdf.com/pdf/1461568/Broadcom/BCM2837/1
 
 Datasheet Procesador ARM Cortex-A53
 >https://developer.arm.com/documentation/ddi0500/j/Generic-Timer/Generic-Timer-register-summary/AArch64-Generic-Timer-register-summary?lang=en
